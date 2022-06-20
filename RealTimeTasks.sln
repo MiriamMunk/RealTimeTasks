@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTimeTasks.Web", "RealTimeTasks.Web\RealTimeTasks.Web.csproj", "{EEBD4748-F20C-4E6A-95C3-CB404C86D0F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTimeTasks.Data", "RealTimeTasks.Data\RealTimeTasks.Data.csproj", "{09409C99-D875-4981-862A-EEB760779401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEBD4748-F20C-4E6A-95C3-CB404C86D0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBD4748-F20C-4E6A-95C3-CB404C86D0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBD4748-F20C-4E6A-95C3-CB404C86D0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBD4748-F20C-4E6A-95C3-CB404C86D0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09409C99-D875-4981-862A-EEB760779401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09409C99-D875-4981-862A-EEB760779401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09409C99-D875-4981-862A-EEB760779401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09409C99-D875-4981-862A-EEB760779401}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FC0F02B-9437-42D4-BBE3-5AB6597B97A2}
+	EndGlobalSection
+EndGlobal
